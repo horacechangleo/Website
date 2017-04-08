@@ -164,3 +164,8 @@ body{
   font-family: 'NotoSansCJKtc-Medium';
   src:url('../font/NotoSansCJKtc-Medium.otf') format('opentype');
 }
+
+@font-face {
+  font-family: 'FiraSans';
+  src:url('../font/FiraSans-Regular.otf') format('opentype');
+}
