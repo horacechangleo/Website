@@ -40,7 +40,7 @@ body{
   }
 
     .potrait-left {
-      left: 200px;
+      left: 201px;
     }
 
     .potrait-right {
@@ -54,7 +54,7 @@ body{
   }
 
   .right {
-    right: 456px;
+    right: 440px;
     text-align: right;
   }
 
@@ -136,6 +136,7 @@ body{
       position: absolute;
       transform:translateY(-50%);
       top: 50%;
+      line-height: 24px;
     }
 
 
