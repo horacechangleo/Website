@@ -7,16 +7,12 @@ body{
 .top {
   width: 1024px;
   height: 320px;
-  object-fit: contain;
-  position: absolute;
-  top: 0px;
 }
   
   .It {
     width: 57.6px;
     height: 113.9px;
     object-fit: contain;
-    background-color: #414851;
   }
 
   .meet {
@@ -104,14 +100,16 @@ body{
     .mail {
       width: 25px;
       height: 20px;
+      position: relative;
+      top: 4px;
     }
 
   
   .intro-box{
     width: 383px;
+    height: 88px;
     position: absolute;
     top: 186px;
-    vertical-align: middle;
   }
  
     .bar {
@@ -136,6 +134,8 @@ body{
       font-weight: 500;
       color: #424951;
       position: absolute;
+      transform:translateY(-50%);
+      top: 50%;
     }
 
 
