@@ -62,7 +62,7 @@ body{
   .job {
     width: 383px;
     height: 24px;
-    font-family: NotoSansCJKtc;
+    font-family: NotoSansCJKtc-Bold;
     font-size: 24px;
     font-weight: bold;
     line-height: 1;
@@ -75,7 +75,7 @@ body{
   .name {
     width: 383px;
     height: 36px;
-    font-family: NotoSansCJKtc;
+    font-family: NotoSansCJKtc-Bold;
     font-size: 24px;
     font-weight: bold;
     color: #424951;
@@ -88,7 +88,7 @@ body{
   .contact {
     width: 383px;
     height: 24px;
-    font-family: NotoSansCJKtc;
+    font-family: NotoSansCJKtc-Bold;
     font-size: 16px;
     font-weight: bold;
     color: #7c8999;
@@ -129,7 +129,7 @@ body{
 
     .intro {
       width: 367px;
-      font-family: NotoSansCJKtc;
+      font-family: NotoSansCJKtc-Medium;
       font-size: 16px;
       font-weight: 500;
       color: #424951;
@@ -147,10 +147,20 @@ body{
   position: absolute;
   top: 2148px;
   text-align: center;
-  font-family: NotoSansCJKtc;
+  font-family: NotoSansCJKtc-Medium;
   font-size: 16px;
   font-weight: 500;
   line-height: 80px;
   color: #ffd366;
 }
 
+
+@font-face {
+  font-family: 'NotoSansCJK-Bold';
+  src:url('../font/NotoSansCJK-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'NotoSansCJK-Medium';
+  src:url('../font/NotoSansCJK-Medium.otf') format('opentype');
+}
