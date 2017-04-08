@@ -17,7 +17,6 @@ body{
     height: 113.9px;
     object-fit: contain;
     background-color: #414851;
-    background-color: var(--charcoal-grey);
   }
 
   .meet {
@@ -120,7 +119,6 @@ body{
       width: 8px;
       height: 88px;
       background-color: #ffd366;
-      background-color: var(--pale-gold);
       position: absolute;
     }
 
@@ -139,7 +137,6 @@ body{
   width: 1024px;
   height: 80px;
   background-color: #7c8a99;
-  background-color: var(--steel);
   position: absolute;
   top: 2148px;
   text-align: center;
@@ -148,6 +145,5 @@ body{
   font-weight: 500;
   line-height: 80px;
   color: #ffd366;
-  color: var(--pale-gold);
 }
 
