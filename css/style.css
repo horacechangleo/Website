@@ -4,7 +4,7 @@ body{
   background-color: #ffffff;
 }
 
-.img_heading {
+.top {
   width: 1024px;
   height: 320px;
   object-fit: contain;
@@ -85,6 +85,7 @@ body{
     font-weight: bold;
     color: #424951;
     position: absolute;
+    top: 78px;
   }
 
 
@@ -118,6 +119,7 @@ body{
       height: 88px;
       background-color: #ffd366;
       background-color: var(--pale-gold);
+      position: absolute;
     }
 
     .intro {
@@ -126,6 +128,7 @@ body{
       font-size: 16px;
       font-weight: 500;
       color: #424951;
+      position: absolute;
     }
 
 
