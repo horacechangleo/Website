@@ -156,11 +156,11 @@ body{
 
 
 @font-face {
-  font-family: 'NotoSansCJK-Bold';
-  src:url('../font/NotoSansCJK-Bold.otf') format('opentype');
+  font-family: 'NotoSansCJKtc-Bold';
+  src:url('../font/NotoSansCJKtc-Bold.otf') format('opentype');
 }
 
 @font-face {
-  font-family: 'NotoSansCJK-Medium';
-  src:url('../font/NotoSansCJK-Medium.otf') format('opentype');
+  font-family: 'NotoSansCJKtc-Medium';
+  src:url('../font/NotoSansCJKtc-Medium.otf') format('opentype');
 }
