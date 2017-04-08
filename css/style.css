@@ -25,6 +25,12 @@ body{
   }
 
 
+.blank {
+  width: 100%;
+  height: 84px;
+  position: relative;
+}
+
 .resume {
   position: relative;
   width: 100%;
@@ -138,6 +144,10 @@ body{
       top: 50%;
       line-height: 24px;
     }
+
+      .intro-box.left .intro {
+        left: 16px;
+      }
 
 
 
