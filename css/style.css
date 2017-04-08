@@ -13,6 +13,9 @@ body{
     width: 57.6px;
     height: 113.9px;
     object-fit: contain;
+    position: absolute;
+    top: 89.1px;
+    left: 118.5px;
   }
 
   .meet {
@@ -21,7 +24,11 @@ body{
     font-family: FiraSans;
     font-size: 36px;
     text-align: right;
+    line-height: 44px;
     color: #ffffff;
+    position: absolute;
+    top: 254px;
+    left: 716px;
   }
 
 
@@ -147,6 +154,10 @@ body{
 
       .intro-box.left .intro {
         left: 16px;
+      }
+
+      .intro p span {
+        color: #f1951c;
       }
 
 
