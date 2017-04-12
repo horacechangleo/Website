@@ -55,7 +55,12 @@
     height: 273px;
     background-color: #d8d8d8;
     position: absolute;
+    overflow: hidden;
   }
+
+    .potrait img {
+      width: 100%;
+    }
 
     .potrait-left {
       left: 0px;
